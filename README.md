@@ -1,4 +1,4 @@
-# Progetto-NL2-Gleason-Challenge-2019
+# Gleason-Challenge-2019 (NL2 PROJECT)
 Project for NecstCamp NL2: Automatic Gleason Grading
 
 Credits to:
