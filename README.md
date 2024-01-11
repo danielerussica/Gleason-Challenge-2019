@@ -9,7 +9,7 @@ Credits to:
 For a more documentated explanation, check report.pdf
 
 ## Abstract
-Prostate Cancer (PCa) is the sixth most common and second dead- liest cancer among men worldwide. The aggressiveness of prostate can- cer is measured by Gleason grading, a system based on the appearance of cancer cells. It is usually performed via visual inspection (with a microscope) of the prostate tissue by expert pathologists. However, this is a time-consuming task and suffers from very high inter-observer variability. Automatic computer-aided methods have the potential for improving the speed, accuracy, and reproducibility of the results. This challenge aims at the automatic Gleason grading of prostate cancer from H&E-stained histopathology images through the use of a neural network, performing multiclass semantic segmentation.
+Prostate Cancer (PCa) is the sixth most common and second dead- liest cancer among men worldwide. The aggressiveness of prostate cancer is measured by Gleason grading, a system based on the appearance of cancer cells. It is usually performed via visual inspection (with a microscope) of the prostate tissue by expert pathologists. However, this is a time-consuming task and suffers from very high inter-observer variability. Automatic computer-aided methods have the potential for improving the speed, accuracy, and reproducibility of the results. This challenge aims at the automatic Gleason grading of prostate cancer from H&E-stained histopathology images through the use of a neural network, performing multiclass semantic segmentation.
 
 ## Dataset
 - 244 patients with six respective labels
